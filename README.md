@@ -35,5 +35,5 @@ I'm a **Full-Stack Developer** from **Ramallah, Palestine**, passionate about cr
 ---
 
 ### 🏆 **GitHub Stats**
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarRayyan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarRayyan&layout=compact&theme=radical)
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omar-rayyan&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-rayyan&layout=compact&theme=radical)
