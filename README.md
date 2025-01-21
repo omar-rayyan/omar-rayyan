@@ -1,9 +1,7 @@
 # Omar Rayyan  
-🌍 **Full-Stack Developer | Problem Solver | Gamer**
+🌍 **Full-Stack Developer | Problem Solver**
 
 I'm a **Full-Stack Developer** from **Ramallah, Palestine**, passionate about creating efficient, scalable, and user-friendly web applications. A graduate of the esteemed **Axsos Academy**, I have been programming since a young age, driven by a love for technology and problem-solving.
-
-I specialize in building robust applications using **JavaScript**, **Python**, and **Django**, and I thrive on delivering clean, maintainable code. With proficiency in front-end and back-end development, I aim to craft solutions that are both innovative and reliable.
 
 ---
 
