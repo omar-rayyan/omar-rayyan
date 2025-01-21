@@ -41,4 +41,4 @@ Hi there! I'm **Omar Rayyan**, a passionate **Full-Stack Developer** from **Rama
 ---
 
 ## 🏆 **GitHub Stats**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-rayyan&layout=compact&theme=radical) ![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omar-rayyan&show_icons=true&theme=radical)
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omar-rayyan&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-rayyan&layout=compact&theme=radical)
